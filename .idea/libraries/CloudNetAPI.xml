@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CloudNetAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../1APIs/CloudNetAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

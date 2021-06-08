@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StickRush">
+    <output-path>$PROJECT_DIR$/../1localhost/1.8.8/plugins</output-path>
+    <root id="archive" name="StickRush.jar">
+      <element id="module-output" name="StickRush" />
+    </root>
+  </artifact>
+</component>

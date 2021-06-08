@@ -1,0 +1,9 @@
+name: StickRush
+version: 1.0-SNAPSHOT
+main: de.dustin.Main
+authors: [ DustiiinTwitch ]
+description: StickRush
+
+commands:
+  setlocation:
+    description: Setup für das Plugin
